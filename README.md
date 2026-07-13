@@ -12,46 +12,6 @@ A curated Java practice repository organized by programming topic. The project c
 - Exception Handling
 - Miscellaneous Java exercises
 
-## Folder Structure
-
-```text
-java-practice/
-+-- Arrays/
-¦   +-- DistinctElements.java
-¦   +-- EquilibriumSum.java
-¦   +-- Hikers.java
-¦   +-- MergeArrays.java
-¦   +-- MissingNumbers.java
-+-- Basics/
-¦   +-- HelloWorld.java
-¦   +-- SumABCD.java
-+-- Data-Structures/
-¦   +-- SingleLinkedList.java
-+-- Exception-Handling/
-¦   +-- ExceptionHandlingDemo.java
-+-- Miscellaneous/
-¦   +-- CountNumbers.java
-¦   +-- EmptyProgram.java
-¦   +-- PasswordValidator.java
-+-- Object-Oriented-Programming/
-¦   +-- ConstructorDemo.java
-¦   +-- ObjectCreationDemo.java
-+-- Strings/
-¦   +-- ChangeCase.java
-¦   +-- CharacterOccurrence.java
-¦   +-- CompareStrings.java
-¦   +-- CountCharacters.java
-¦   +-- CountWords.java
-¦   +-- LongestWord.java
-¦   +-- PangramChecker.java
-¦   +-- RemoveSpaces.java
-¦   +-- StringPalindrome.java
-¦   +-- UppercaseCounter.java
-¦   +-- VowelCounter.java
-+-- .gitignore
-+-- README.md
-```
-
 ## Compile and Run
 
 Compile a single program:
