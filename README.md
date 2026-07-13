@@ -1,6 +1,6 @@
 # Java Practice
 
-A curated collection of Core Java practice programs completed during Java training. This repository demonstrates fundamental programming concepts, problem-solving techniques, and object-oriented programming principles.
+This repository demonstrates fundamental programming concepts, problem-solving techniques, and object-oriented programming principles.
 
 ## 📚 Topics Covered
 
