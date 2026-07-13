@@ -1,44 +1,44 @@
-# Java Practice Programs
+# Java Practice
 
-A curated Java practice repository organized by programming topic. The project contains small console programs for Java fundamentals, string handling, arrays, object-oriented programming, data structures, exception handling, and miscellaneous exercises.
+A curated collection of Core Java practice programs completed during Java training. This repository demonstrates fundamental programming concepts, problem-solving techniques, and object-oriented programming principles.
 
-## Topics Covered
+## 📚 Topics Covered
 
-- Basics
-- Strings
+- Java Fundamentals
 - Arrays
-- Object-Oriented Programming
-- Data Structures
+- Strings
+- Object-Oriented Programming (OOP)
 - Exception Handling
-- Miscellaneous Java exercises
+- Data Structures
+- Problem Solving
 
-## Compile and Run
+## 🎯 Purpose
 
-Compile a single program:
+This repository serves as a personal learning resource and showcases my understanding of Core Java concepts through hands-on programming exercises.
 
-```bash
-javac Strings/VowelCounter.java
-```
+## 🚀 Getting Started
 
-Run the compiled program from its folder:
+### Prerequisites
 
-```bash
-cd Strings
-java VowelCounter
-```
+- Java Development Kit (JDK 17 or later)
+- Any Java IDE or code editor (VS Code, IntelliJ IDEA, Eclipse)
 
-Compile all programs into a separate output folder:
+### Compile
 
 ```bash
-mkdir -p out
-javac -d out $(find . -name "*.java")
+javac FileName.java
 ```
 
-On Windows PowerShell:
+### Run
 
-```powershell
-New-Item -ItemType Directory -Force out
-javac -d out (Get-ChildItem -Recurse -Filter *.java).FullName
+```bash
+java FileName
 ```
 
-Some files may still contain original exercise-level syntax errors. See the repository organization summary or compiler output for remaining issues.
+## 📌 Note
+
+These programs were written as part of my Java learning journey and are intended for practice, learning, and reference.
+
+---
+
+⭐ If you find this repository helpful, feel free to explore and use it for learning.
